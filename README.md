@@ -12,7 +12,7 @@ Responsive & Accessible Design<br>
 
 Backend:
 
-Node.js,<br>  
+Node.js,
 RESTful APIs<br> 
 MongoDB,<br>  SQL ( MySQL)<br> 
 Authentication & Authorization (JWT, OAuth)<br> 
