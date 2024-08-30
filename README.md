@@ -24,6 +24,9 @@ Git, GitHub
 
 📈 GitHub Stats
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayush243871&show_icons=true&theme=radical)
+
+
 🌐 Let's Connect<br> <br> 
 Portfolio: <br> <br> 
 LinkedIn: https://www.linkedin.com/in/ayush-kumar-324217248/?trk=opento_sprofile_details<br> <br> 
