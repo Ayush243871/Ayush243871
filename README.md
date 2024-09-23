@@ -1,4 +1,4 @@
-🚀 Full-Stack Web Developer Portfolio
+
 <br><br>
 Hi there! I'm a passionate Full-Stack Web Developer with experience in building responsive, user-friendly web applications. I specialize in both front-end and back-end development, and I love creating efficient and scalable solutions. Below you'll find more about my skills, projects, and how to connect with me!
 
