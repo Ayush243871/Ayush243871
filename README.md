@@ -3,6 +3,12 @@
 
 - 👨‍💻 All of my projects are available at [https://myportfoliocheup70.netlify.app/](https://myportfoliocheup70.netlify.app/)
 
+- 💬 Ask me about **react , js , python , SQL**
+
+- 📫 How to reach me **ayushykumar@gmail.com**
+
+- ⚡ Fun fact **I am a great cook**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ayush kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush kumar" height="30" width="40" /></a>
@@ -14,3 +20,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush243871&show_icons=true&locale=en&layout=compact" alt="ayush243871" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayush243871&show_icons=true&locale=en" alt="ayush243871" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush243871&" alt="ayush243871" /></p>
