@@ -28,7 +28,8 @@ Git, GitHub
 
 
 🌐 Let's Connect<br> <br> 
-Portfolio: <br> <br> 
+Portfolio:  https://myportfoliocheup70.netlify.app/
+<br> <br> 
 LinkedIn: https://www.linkedin.com/in/ayush-kumar-324217248/?trk=opento_sprofile_details<br> <br> 
 Email: ayushykumar@gmail.com<br> <br> 
 Feel free to check out my repositories, leave feedback, or get in touch for collaboration!<br> <br> 
